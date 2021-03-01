@@ -8,3 +8,14 @@
  First, the programmer should add each variable as an "int" variable, such as, int dollars, int half dollars, int quarters, so on.. 
 After this is completed, the programmer should then add functions that use basic math, in order to correctly calculate the the value of each variable. For example, nickles are equal to 5 cents, so the programmer must multiply the variable "nickles" by five. This should be done to each of the programmer's chosen variables, using the appropriate amount to be multiplied by. 
 Once all of the functions are established, the programmer should then tell the computer to print, or "cout" how many dollars, half-dollars, quarters, and so on.. so that the user knows the exact coin amount, given their chosen total amount. 
+
+ Here is an example what the program will output:
+ 
+Enter the total number of change. (Example 3.45): 3.94
+
+Dollars: 3
+Half-dollars: 1
+Quarters: 1
+Dimes: 1
+Nickels: 1
+Pennies: 4
